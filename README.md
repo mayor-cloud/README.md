@@ -11,67 +11,31 @@ email services, and cloud infrastructure through one connected ecosystem.
 
 <br>
 
-## Social Stats
-
-<table>
-<tr>
-
-<td align="center" width="25%">
+### Social Stats
 
 <a href="https://www.youtube.com/@mayor_cloud">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" height="42" alt="YouTube">
+<img
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.youtube.com%2F%40mayor_cloud&label=YouTube&color=FF0000"
+alt="YouTube Subscribers">
 </a>
-
-<br><br>
-
-<a href="https://www.youtube.com/@mayor_cloud">
-<img src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.youtube.com%2F%40mayor_cloud&label=YouTube&color=FF0000" alt="YouTube Subscribers">
-</a>
-
-</td>
-
-<td align="center" width="25%">
 
 <a href="https://www.instagram.com/mayor_cloud/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram">
+<img
+src="https://img.shields.io/badge/Instagram-@mayor__cloud-E4405F?style=flat&logo=instagram&logoColor=white"
+alt="Instagram">
 </a>
-
-<br><br>
-
-<a href="https://www.instagram.com/mayor_cloud/">
-<img src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.instagram.com%2Fmayor_cloud%2F&label=Instagram&color=E4405F" alt="Instagram Followers">
-</a>
-
-</td>
-
-<td align="center" width="25%">
 
 <a href="https://www.facebook.com/profile.php?id=61589379300030">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook">
+<img
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61589379300030&label=Facebook&color=1877F2"
+alt="Facebook Followers">
 </a>
-
-<br><br>
-
-<a href="https://www.facebook.com/profile.php?id=61589379300030">
-<img src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61589379300030&label=Facebook&color=1877F2" alt="Facebook Followers">
-</a>
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="README Views">
 
 <br><br>
 
 <img
-src="https://view-counter.tobyhagan.com/?user=mayor-cloud/README.md&base=0d1117&accent=00c853&text=ffffff&flat=true"
+src="https://komarev.com/ghpvc/?username=mayor-cloud&label=README%20Views&color=00c853&style=for-the-badge&abbreviated=true"
 alt="README Views">
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -79,8 +43,8 @@ alt="README Views">
 
 ## What is Mayor Cloud?
 
-**Mayor Cloud** is an ecosystem of cloud services and developer tools designed
-to help developers build, host, manage, and scale their projects.
+**Mayor Cloud** is an ecosystem of cloud services and developer tools built to
+help developers create, deploy, manage, and scale their projects.
 
 ### Services
 
@@ -99,9 +63,9 @@ to help developers build, host, manage, and scale their projects.
 
 ## Mayor Apps
 
-Explore the Mayor Cloud ecosystem.
+<sub>Everything you need across the Mayor Cloud ecosystem.</sub>
 
-<br>
+<br><br>
 
 <table>
 
@@ -123,7 +87,7 @@ alt="Mayor Maker">
 
 <br>
 
-<sub>Build and manage apps</sub>
+<sub>Build & manage apps</sub>
 
 </td>
 
@@ -195,7 +159,7 @@ alt="Mayor Free Host">
 
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
 <a href="https://database.mayor-cloud.com">
 <img
@@ -216,7 +180,7 @@ alt="Mayor Database">
 </td>
 
 
-<td align="center">
+<td align="center" width="25%">
 
 <a href="https://mail.mayor-cloud.com">
 <img
@@ -237,7 +201,7 @@ alt="Mayor Mail">
 </td>
 
 
-<td align="center">
+<td align="center" width="25%">
 
 <a href="https://account.mayor-cloud.com">
 <img
@@ -258,7 +222,7 @@ alt="Mayor Account">
 </td>
 
 
-<td align="center">
+<td align="center" width="25%">
 
 <a href="https://docs.mayor-cloud.com">
 <img
@@ -286,8 +250,8 @@ alt="Mayor Docs">
 
 <a href="https://store.mayor-cloud.com/">
 <img
-src="https://img.shields.io/badge/Explore%20all%20Mayor%20Apps-00C853?style=for-the-badge&logo=icloud&logoColor=white"
-alt="Mayor Apps">
+src="https://img.shields.io/badge/Explore%20Mayor%20Apps-00C853?style=for-the-badge&logo=icloud&logoColor=white"
+alt="Explore Mayor Apps">
 </a>
 
 </div>
@@ -304,31 +268,7 @@ integrations, and developer resources.
 <a href="https://github.com/mayor-cloud?tab=repositories">
 <img
 src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="Repositories">
-</a>
-
-</div>
-
----
-
-## Explore Mayor Cloud
-
-<div align="center">
-
-<a href="https://mayor-cloud.com">
-<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E676">
-</a>
-
-<a href="https://store.mayor-cloud.com/">
-<img src="https://img.shields.io/badge/Mayor%20Apps-0D1117?style=for-the-badge&logo=icloud&logoColor=00E676">
-</a>
-
-<a href="https://github.com/orgs/mayor-cloud/discussions">
-<img src="https://img.shields.io/badge/Discussions-0D1117?style=for-the-badge&logo=github&logoColor=00E676">
-</a>
-
-<a href="https://discord.gg/mayor">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2">
+alt="Mayor Cloud Repositories">
 </a>
 
 </div>
@@ -337,14 +277,43 @@ alt="Repositories">
 
 ## Community
 
-Have an idea, question, bug report, or suggestion?
+Questions, ideas, feedback, or suggestions are welcome.
 
 <div align="center">
 
 <a href="https://github.com/orgs/mayor-cloud/discussions">
 <img
-src="https://img.shields.io/badge/Join%20the%20Community-GitHub%20Discussions-00C853?style=for-the-badge&logo=github&logoColor=white"
-alt="Mayor Cloud Discussions">
+src="https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub Discussions">
+</a>
+
+<a href="https://discord.gg/mayor">
+<img
+src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+alt="Mayor Cloud Discord">
+</a>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.youtube.com/@mayor_cloud">
+<img
+src="https://img.shields.io/badge/YouTube-Mayor%20Cloud-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/mayor_cloud/">
+<img
+src="https://img.shields.io/badge/Instagram-@mayor__cloud-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61589379300030">
+<img
+src="https://img.shields.io/badge/Facebook-Mayor%20Cloud-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 </div>
@@ -353,7 +322,7 @@ alt="Mayor Cloud Discussions">
 
 ## Security
 
-Never publish passwords, API keys, access tokens, secrets,
+Please never publish passwords, API keys, access tokens, secrets,
 or private infrastructure information in public repositories or discussions.
 
 ---
