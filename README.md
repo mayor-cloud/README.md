@@ -1,88 +1,85 @@
-<div align="center">
+<h2 align="center">Mayor Apps</h2>
 
-<img src="https://github.com/mayor-cloud.png?size=180" width="120" alt="Mayor Cloud" />
+<p align="center">
+  <a href="https://maker.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=maker.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Maker" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-# Mayor Cloud Community
+  <a href="https://host.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=host.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Host" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-**Cloud infrastructure • Developer tools • Open source**
+  <a href="https://tools.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=tools.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Tools" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<br />
+  <a href="https://mayor-cloud.site">
+    <img src="https://www.google.com/s2/favicons?domain=mayor-cloud.site&sz=128"
+         width="64" height="64" alt="Mayor Free Host" />
+  </a>
+</p>
 
-<a href="https://mayor-cloud.com">
-  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00e676" />
-</a>
-<a href="https://store.mayor-cloud.com/">
-  <img src="https://img.shields.io/badge/Mayor%20Apps-0d1117?style=for-the-badge&logo=shopify&logoColor=00e676" />
-</a>
-<a href="https://github.com/orgs/mayor-cloud/discussions">
-  <img src="https://img.shields.io/badge/Discussions-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://discord.gg/mayor">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
-<a href="https://x.com/mayor_cloud">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" />
-</a>
+<p align="center">
+  <sub>
+    <b>Maker</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Host</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Tools</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Free Host</b>
+  </sub>
+</p>
 
-<br /><br />
+<br>
 
-<img src="https://img.shields.io/badge/Open%20Source-00e676?style=flat-square&logo=opensourceinitiative&logoColor=000000" />
-<img src="https://img.shields.io/badge/Cloud-00e676?style=flat-square&logo=icloud&logoColor=000000" />
-<img src="https://img.shields.io/badge/Developer%20Tools-00e676?style=flat-square&logo=codeforces&logoColor=000000" />
+<p align="center">
+  <a href="https://database.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=database.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Database" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-</div>
+  <a href="https://mail.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=mail.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
----
+  <a href="https://account.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=account.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Account" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-## ✨ Welcome
+  <a href="https://docs.mayor-cloud.com">
+    <img src="https://www.google.com/s2/favicons?domain=docs.mayor-cloud.com&sz=128"
+         width="64" height="64" alt="Mayor Docs" />
+  </a>
+</p>
 
-The official community hub for **Mayor Cloud**.
+<p align="center">
+  <sub>
+    <b>Database</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Mail</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Account</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Docs</b>
+  </sub>
+</p>
 
-Discuss ideas, ask questions, share feedback, and follow updates across the Mayor ecosystem.
+<br>
 
----
-
-## 🚀 Explore
-
-<div align="center">
-
-<a href="https://store.mayor-cloud.com/">
-  <img src="https://img.shields.io/badge/🛍️%20Mayor%20Apps-Explore-00e676?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<a href="https://github.com/mayor-cloud?tab=repositories">
-  <img src="https://img.shields.io/badge/💻%20Projects-Explore-00e676?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-<a href="https://github.com/orgs/mayor-cloud/discussions">
-  <img src="https://img.shields.io/badge/💬%20Community-Join-00e676?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-</div>
-
----
-
-## 💬 Community
-
-- 💡 Ideas
-- 🐛 Bugs
-- ❓ Questions
-- 📢 Announcements
-- 🛠️ Developer discussions
-- 🌐 Open-source projects
-
----
-
-## 🔐 Security
-
-Never share passwords, API keys, tokens, secrets, or private infrastructure information publicly.
-
----
-
-<div align="center">
-
-### Built by Mayor Cloud
-
-<img src="https://img.shields.io/badge/Mayor%20Cloud-Building%20for%20developers-00e676?style=for-the-badge&labelColor=0d1117" />
-
-</div>
+<p align="center">
+  <a href="https://store.mayor-cloud.com">
+    <b>Explore all Mayor Apps →</b>
+  </a>
+</p>
