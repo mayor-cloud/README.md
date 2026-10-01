@@ -13,87 +13,116 @@ email services, and cloud infrastructure through one connected ecosystem.
 
 ---
 
-<h2 align="center">Social</h2>
+<h2 align="center">Social Stats</h2>
 
-<table>
+<table align="center" width="72%">
 <tr>
 
 <td align="center" width="25%">
+
 <a href="https://www.youtube.com/@mayor_cloud">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="52" height="52" alt="YouTube" />
+<img
+src="https://cdn.simpleicons.org/youtube/FF0000"
+width="48"
+height="48"
+alt="YouTube"
+/>
 </a>
 
 <br><br>
 
 <b>YouTube</b>
 
-<br>
+<br><br>
 
-<sub>1K+ Subscribers</sub>
+<a href="https://www.youtube.com/@mayor_cloud">
+<img
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.youtube.com%2F%40mayor_cloud&label=Subscribers&color=red"
+alt="YouTube Subscribers"
+/>
+</a>
 
 </td>
 
 
 <td align="center" width="25%">
+
 <a href="https://www.instagram.com/mayor_cloud/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram" />
+<img
+src="https://cdn.simpleicons.org/instagram/E4405F"
+width="48"
+height="48"
+alt="Instagram"
+/>
 </a>
 
 <br><br>
 
 <b>Instagram</b>
 
-<br>
+<br><br>
 
-<sub>@mayor_cloud</sub>
+<a href="https://www.instagram.com/mayor_cloud/">
+<img
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.instagram.com%2Fmayor_cloud%2F&label=Followers&color=E4405F"
+alt="Instagram Followers"
+/>
+</a>
 
 </td>
 
 
 <td align="center" width="25%">
+
 <a href="https://www.facebook.com/profile.php?id=61589379300030">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="52" height="52" alt="Facebook" />
+<img
+src="https://cdn.simpleicons.org/facebook/1877F2"
+width="48"
+height="48"
+alt="Facebook"
+/>
 </a>
 
 <br><br>
 
 <b>Facebook</b>
 
-<br>
+<br><br>
 
-<sub>10K+ Followers</sub>
+<a href="https://www.facebook.com/profile.php?id=61589379300030">
+<img
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61589379300030&label=Followers&color=1877F2"
+alt="Facebook Followers"
+/>
+</a>
 
 </td>
 
 
 <td align="center" width="25%">
-<a href="https://github.com/orgs/mayor-cloud/discussions">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="52" height="52" alt="Community" />
-</a>
+
+<img
+src="https://cdn.simpleicons.org/googleanalytics/00C853"
+width="48"
+height="48"
+alt="README Views"
+/>
 
 <br><br>
 
-<b>Community</b>
+<b>README Views</b>
 
-<br>
+<br><br>
 
-<sub>GitHub Discussions</sub>
+<img
+src="https://visitor-badge.laobi.icu/badge?page_id=mayor-cloud.README&left_text=Views"
+alt="README Views"
+/>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://visitor-badge.laobi.icu/badge?page_id=mayor-cloud.README&left_text=README%20Views"
-alt="README Views"
-/>
-
-</p>
 
 ---
 
@@ -110,7 +139,7 @@ alt="README Views"
 
 ### 🌐 Hosting
 
-Deploy and manage websites and applications across the Mayor Cloud infrastructure.
+Deploy and manage websites and applications through Mayor Cloud infrastructure.
 
 </td>
 
@@ -118,7 +147,7 @@ Deploy and manage websites and applications across the Mayor Cloud infrastructur
 
 ### 🗄️ Databases
 
-Managed database services built for modern applications and development workflows.
+Managed database services designed for modern applications and development workflows.
 
 </td>
 
@@ -138,7 +167,7 @@ Utilities and tools designed to simplify everyday development tasks.
 
 ### 🤖 App Building
 
-Create and manage applications using the Mayor ecosystem.
+Build and manage applications through the Mayor ecosystem.
 
 </td>
 
@@ -170,7 +199,7 @@ Infrastructure and services for deploying and running modern projects.
 
 ### 👤 Mayor Account
 
-One centralized Mayor identity across supported Mayor Cloud platforms.
+One centralized identity across supported Mayor Cloud platforms.
 
 </td>
 
@@ -191,13 +220,13 @@ Guides, references, and resources for Mayor Cloud products and developers.
 
 ## Mayor Apps
 
-Explore the Mayor Cloud ecosystem.
+<sub>Explore the Mayor Cloud ecosystem.</sub>
 
-<br>
+<br><br>
 
 </div>
 
-<table>
+<table align="center" width="92%">
 
 <tr>
 
@@ -404,7 +433,6 @@ alt="Explore Mayor Apps"
 Mayor Cloud publishes open-source systems, tools, libraries, bots, integrations, and developer resources.
 
 <table>
-
 <tr>
 
 <td align="center" width="33%">
@@ -432,8 +460,9 @@ Open development, feedback, discussions, and contributions.
 </td>
 
 </tr>
-
 </table>
+
+<br>
 
 <p align="center">
 
@@ -451,7 +480,6 @@ alt="Mayor Cloud Repositories"
 ## Community
 
 <table>
-
 <tr>
 
 <td align="center" width="50%">
@@ -484,7 +512,6 @@ Explore products and services available across the Mayor Cloud ecosystem.
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -499,40 +526,40 @@ Security-sensitive information should always be reported privately through the a
 
 <div align="center">
 
-## Connect with Mayor Cloud
-
-<br>
-
-<a href="https://www.youtube.com/@mayor_cloud">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="34" height="34" alt="YouTube" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/mayor_cloud/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" alt="Instagram" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/profile.php?id=61589379300030">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="34" height="34" alt="Facebook" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/mayor-cloud">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" height="34" alt="GitHub" />
-</a>
-
-<br><br>
+<img src="https://github.com/mayor-cloud.png?size=100" width="60" alt="Mayor Cloud" />
 
 ### Building better tools for developers.
 
 **Mayor Cloud**
 
+<br>
+
 <a href="https://mayor-cloud.com">
 mayor-cloud.com
+</a>
+
+<br><br>
+
+<a href="https://www.youtube.com/@mayor_cloud">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" height="28" alt="YouTube" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/mayor_cloud/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/profile.php?id=61589379300030">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/mayor-cloud">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub" />
 </a>
 
 </div>
