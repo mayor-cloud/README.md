@@ -15,7 +15,7 @@ email services, and cloud infrastructure through one connected ecosystem.
 
 <h2 align="center">Social Stats</h2>
 
-<table align="center" width="72%">
+<table align="center" width="70%">
 <tr>
 
 <td align="center" width="25%">
@@ -37,7 +37,7 @@ alt="YouTube"
 
 <a href="https://www.youtube.com/@mayor_cloud">
 <img
-src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.youtube.com%2F%40mayor_cloud&label=Subscribers&color=red"
+src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.youtube.com%2F%40mayor_cloud&label=Subscribers&color=FF0000"
 alt="YouTube Subscribers"
 />
 </a>
@@ -64,7 +64,7 @@ alt="Instagram"
 
 <a href="https://www.instagram.com/mayor_cloud/">
 <img
-src="https://pulse.walls.sh/badge?url=https%3A%2F%2Fwww.instagram.com%2Fmayor_cloud%2F&label=Followers&color=E4405F"
+src="https://img.shields.io/endpoint?url=https%3A%2F%2Fstats.mayor-cloud.com%2Finstagram&label=Followers&color=E4405F&logo=instagram&logoColor=white"
 alt="Instagram Followers"
 />
 </a>
@@ -101,12 +101,14 @@ alt="Facebook Followers"
 
 <td align="center" width="25%">
 
+<a href="https://github.com/mayor-cloud/README.md">
 <img
-src="https://cdn.simpleicons.org/googleanalytics/00C853"
+src="https://cdn.simpleicons.org/github/FFFFFF"
 width="48"
 height="48"
-alt="README Views"
+alt="GitHub"
 />
+</a>
 
 <br><br>
 
@@ -115,7 +117,7 @@ alt="README Views"
 <br><br>
 
 <img
-src="https://visitor-badge.laobi.icu/badge?page_id=mayor-cloud.README&left_text=Views"
+src="https://viewcounter.live/mayor-cloud?repo=README.md&label=Views&bg_color=0D1117&text_color=FFFFFF&rounded=true&unique=true"
 alt="README Views"
 />
 
@@ -133,6 +135,7 @@ alt="README Views"
 <br>
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -152,6 +155,7 @@ Managed database services designed for modern applications and development workf
 </td>
 
 </tr>
+
 
 <tr>
 
@@ -173,6 +177,7 @@ Build and manage applications through the Mayor ecosystem.
 
 </tr>
 
+
 <tr>
 
 <td width="50%">
@@ -193,6 +198,7 @@ Infrastructure and services for deploying and running modern projects.
 
 </tr>
 
+
 <tr>
 
 <td width="50%">
@@ -212,6 +218,7 @@ Guides, references, and resources for Mayor Cloud products and developers.
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -433,6 +440,7 @@ alt="Explore Mayor Apps"
 Mayor Cloud publishes open-source systems, tools, libraries, bots, integrations, and developer resources.
 
 <table>
+
 <tr>
 
 <td align="center" width="33%">
@@ -443,6 +451,7 @@ Public developer projects and systems maintained by Mayor Cloud.
 
 </td>
 
+
 <td align="center" width="33%">
 
 ### 🧩 Libraries
@@ -450,6 +459,7 @@ Public developer projects and systems maintained by Mayor Cloud.
 Reusable packages, integrations, templates, and developer utilities.
 
 </td>
+
 
 <td align="center" width="33%">
 
@@ -460,6 +470,7 @@ Open development, feedback, discussions, and contributions.
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -480,6 +491,7 @@ alt="Mayor Cloud Repositories"
 ## Community
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
@@ -512,6 +524,7 @@ Explore products and services available across the Mayor Cloud ecosystem.
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -541,25 +554,45 @@ mayor-cloud.com
 <br><br>
 
 <a href="https://www.youtube.com/@mayor_cloud">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" height="28" alt="YouTube" />
+<img
+src="https://cdn.simpleicons.org/youtube/FF0000"
+width="28"
+height="28"
+alt="YouTube"
+/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/mayor_cloud/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" />
+<img
+src="https://cdn.simpleicons.org/instagram/E4405F"
+width="28"
+height="28"
+alt="Instagram"
+/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/profile.php?id=61589379300030">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" />
+<img
+src="https://cdn.simpleicons.org/facebook/1877F2"
+width="28"
+height="28"
+alt="Facebook"
+/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/mayor-cloud">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub" />
+<img
+src="https://cdn.simpleicons.org/github/FFFFFF"
+width="28"
+height="28"
+alt="GitHub"
+/>
 </a>
 
 </div>
